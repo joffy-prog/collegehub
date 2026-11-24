@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367532982733",
+    "project_id": "collegehub-e84de",
+    "storage_bucket": "collegehub-e84de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367532982733:android:f75930b8ea264d83e70484",
+        "android_client_info": {
+          "package_name": "com.example.collegehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwewWh9w_3j9v3k_NNpCj4nG_BmBkUf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
